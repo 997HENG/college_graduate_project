@@ -1,0 +1,1 @@
+{"version":2,"entries":[{"package":"auth","rootUri":"../../../wrapper/auth/","packageUri":"lib/"},{"package":"storage","rootUri":"../../../models/storage/","packageUri":"lib/"},{"package":"authentication_repository","rootUri":"../","packageUri":"lib/"}]}

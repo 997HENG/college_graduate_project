@@ -1,0 +1,17 @@
+name: internet_connection
+description: 
+version: 0.0.1
+publish_to: none
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+dependencies:
+
+  internet_connection_checker_plus: ^2.5.1
+
+  flutter:
+    sdk: flutter
+    
+dev_dependencies:
+
+  flutter_test:
+    sdk: flutter

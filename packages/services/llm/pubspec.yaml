@@ -1,0 +1,26 @@
+name: llm
+description: 
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+
+  mediapipe_core: ^0.0.1
+  mediapipe_genai: ^0.0.1
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.4
+  llm_model:
+    path: ../../models/llm_model
+  http: ^1.2.2
+
+
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

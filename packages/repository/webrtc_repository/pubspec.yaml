@@ -1,0 +1,19 @@
+name: webrtc_repository
+description: 
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+
+  flutter_webrtc: ^0.12.1+hotfix.1
+  flutter:
+    sdk: flutter
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

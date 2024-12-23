@@ -1,0 +1,20 @@
+name: auth
+description: 
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+
+  firebase_auth: ^5.1.4
+  firebase_core: ^3.3.0
+  flutter:
+    sdk: flutter
+  google_sign_in: ^6.2.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
